@@ -2,6 +2,8 @@
 
 This documentation is for developers. There is also a more <a href="http://www.initializr.com/docs">users-oriented documentation</a>.
 
+gh
+
 ## Presentation
 
 Hi! This documentation is here in case you want to get involved in Initializr, use it as an API to generate archives on the fly, or create your
